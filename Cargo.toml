@@ -1,0 +1,11 @@
+[package]
+name = "aoc2020"
+version = "0.1.0"
+authors = ["Markus Nilsson <markus@mnilsson.se>"]
+edition = "2018"
+
+[dependencies]
+nom = "4.1.1"
+chrono = "0.4.6"
+regex = "1.1.0"
+minifb = "0.11.1"
